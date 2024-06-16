@@ -1,2 +1,2 @@
-# My Zero Day Project
-This is my first project on Git. I'm learning how to use Git and GitHub effectively.
+# Zero Day Repository
+This repository contains various projects and exercises related to DevOps and System Engineering.
